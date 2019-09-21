@@ -1,0 +1,8 @@
+database
+https://cloud.mongodb.com/v2/5d85c104014b76a08ffe79a5#metrics/replicaSet/5d85c1dad54df7b8b25c4ec4/explorer/dbCrimeApp/users/find
+
+Front-end Code Blog
+https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-2-frontend-6eac4e38ee82
+
+Back-end Code Blog
+https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e3669
